@@ -26,4 +26,4 @@ def duplicate_count(text):
             result += 1
     return result
 
-print(duplicate_count('Indivisibilities'))
+print(duplicate_count('abbAACcatEE'))
